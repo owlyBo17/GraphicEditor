@@ -1,6 +1,6 @@
-"# Archivos de compilacion" 
-"bin/" 
-"obj/" 
-"*.user" 
-"*.suo" 
-"*.cache" 
+# Archivos de compilacion 
+bin/ 
+obj/ 
+*.user 
+*.suo 
+*.cache 
